@@ -109,5 +109,3 @@ label = frame.add_label("Turns = " + str(turn))
 new_game()
 frame.start()
 
-
-# Always remember to review the grading rubric
